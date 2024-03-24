@@ -26,31 +26,13 @@ Brain tumor classification is a critical task in medical image analysis, aiding 
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/Brain-Tumor-Classification-Using-Conv2D-Layer.git
+   git clone https://github.com/AdadAlShabab/Brain-Tumor-Classification-Using-Conv2D-Layer.git
    cd Brain-Tumor-Classification-Using-Conv2D-Layer
    ```
 
 2. **Install Dependencies:**
    ```bash
    pip install -r requirements.txt
-   ```
-
-3. **Training:**
-   Train the model using the provided dataset by running `train.py`.
-   ```bash
-   python train.py
-   ```
-
-4. **Evaluation:**
-   Evaluate the trained model on test data to assess its performance.
-   ```bash
-   python evaluate.py
-   ```
-
-5. **Inference:**
-   Use the trained model to classify new brain MRI images. Modify `inference.py` according to your requirements and run it.
-   ```bash
-   python inference.py
    ```
 
 ## Contribution
