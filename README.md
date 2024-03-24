@@ -19,7 +19,10 @@ Brain tumor classification is a critical task in medical image analysis, aiding 
 - Python (>=3.6)
 - TensorFlow (>=2.0)
 - NumPy
-- Matplotlib
+- Pandas
+- Keras
+- Numpy
+- Pillow
 - Other dependencies as specified in `requirements.txt`
 
 ## Usage
