@@ -1,6 +1,5 @@
 # Brain Tumor Classification Using Conv2D Layer
 This repository contains an implementation of a Convolutional Neural Network (CNN) model for the classification of brain tumor images. The model is built using Conv2D layers and trained on a dataset of brain MRI scans to accurately classify images into tumor and non-tumor classes.
-
 ## Overview
 
 Brain tumor classification is a critical task in medical image analysis, aiding in diagnosis and treatment planning. This project focuses on utilizing deep learning techniques to automate this classification process, providing a reliable and efficient tool for medical professionals.
